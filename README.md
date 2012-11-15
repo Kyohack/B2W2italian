@@ -1,7 +1,7 @@
 B2W2italian
 =======
 
-Pokemon Black2 Å& White2 Italian Translation by PokeStation
+Pokemon Black2 ÔøΩ& White2 Italian Translation by PokeStation
 
 Contributors:
 Kyohack
@@ -9,4 +9,4 @@ CloneCharizard
 wowfreak3000
 Ludicario
 
-Thread: http://pokestation.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
+Thread: http://pokecheats.net/forum/showthread.php?14123-Translation-project-for-Pok%E9mon-Black2-amp-White2
